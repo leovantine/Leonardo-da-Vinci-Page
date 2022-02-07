@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+main{
+    background-color: #D9B896;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    padding: 2vh;
+    font-family: 'Andada Pro', serif;
+    color: #913D10;
+    text-shadow: 9px 8px 12px #913D10;
+}
+p{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 50vw;
+    left: 28vw;
+    padding: 1.5vh;
+    font-size: 4vh;
+    font-family: 'Andada Pro', serif;
+    text-shadow: 3px 2px 12px black;
+}
+.stphoto{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 35vw;
+    padding: 1vh;
+    width: 30%;
+    box-shadow: 3px 3px 8px black;
+}
+.ndphoto{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 35vw;
+    padding: 1vh;
+    width: 30%;
+    box-shadow: 3px 3px 8px black;
+}
+.monalisa{
+    display: flex;
+    justify-content: flex-end;
+    width: 43vw;
+    font-size: 3vh;
+    padding: 0.5vh;
+    font-family: 'Andada Pro', serif;
+    text-shadow: 3px 2px 12px black;
+}
+.rdphoto{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 35vw;
+    padding: 1vh;
+    width: 30%;
+    box-shadow: 3px 3px 8px black;
+}
+.santana{
+    display: flex;
+    justify-content: flex-end;
+    width: 60vw;
+    font-size: 3vh;
+    padding: 0.5vh;
+    font-family: 'Andada Pro', serif;
+    text-shadow: 3px 2px 12px black;
+}
+footer{
+    background-color: #B1713A;
+}
+.telas{
+    font-family: 'Andada Pro', serif;
+    text-shadow: 3px 2px 12px black;   
+}
+ul{
+    padding: 1vh;
+    font-family: 'Andada Pro', serif;
+    text-shadow: 3px 2px 12px black;   
+}
+.madeby{
+    font-family: 'Andada Pro', serif;
+    text-shadow: 3px 2px 12px black;   
+}
